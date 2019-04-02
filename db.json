@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "sukhveer",
+      "author": "sajjan",
+      "id": 2
+    },
+    {
+      "title": "Gurpreet kaur bhalla",
+      "author": "css",
+      "id": 4
+    },
+    {
+      "title": "harmanpreet brar",
+      "author": "css",
+      "id": 5
+    },
+    {
+      "title": "navjot singh brar",
+      "author": "java",
+      "id": 6
+    },
+    {
+      "title": "navneet brar",
+      "author": "computer books",
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
